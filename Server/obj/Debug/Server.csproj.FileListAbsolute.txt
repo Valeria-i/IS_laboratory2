@@ -1,0 +1,11 @@
+D:\3_course\IS_architecture\IS_lab2.0\Server\bin\Debug\Server.exe.config
+D:\3_course\IS_architecture\IS_lab2.0\Server\bin\Debug\Server.exe
+D:\3_course\IS_architecture\IS_lab2.0\Server\bin\Debug\Server.pdb
+D:\3_course\IS_architecture\IS_lab2.0\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\3_course\IS_architecture\IS_lab2.0\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\3_course\IS_architecture\IS_lab2.0\Server\obj\Debug\Server.exe
+D:\3_course\IS_architecture\IS_lab2.0\Server\obj\Debug\Server.pdb
+D:\3_course\IS_architecture\IS_lab2.0\Server\bin\Debug\NLog.config
+D:\3_course\IS_architecture\IS_lab2.0\Server\bin\Debug\NLog.dll
+D:\3_course\IS_architecture\IS_lab2.0\Server\bin\Debug\NLog.xml
+D:\3_course\IS_architecture\IS_lab2.0\Server\obj\Debug\Server.csproj.CopyComplete

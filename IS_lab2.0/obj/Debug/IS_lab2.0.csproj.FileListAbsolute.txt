@@ -1,0 +1,7 @@
+D:\3_course\IS_architecture\IS_lab2.0\IS_lab2.0\bin\Debug\IS_lab2.0.exe.config
+D:\3_course\IS_architecture\IS_lab2.0\IS_lab2.0\bin\Debug\IS_lab2.0.exe
+D:\3_course\IS_architecture\IS_lab2.0\IS_lab2.0\bin\Debug\IS_lab2.0.pdb
+D:\3_course\IS_architecture\IS_lab2.0\IS_lab2.0\obj\Debug\IS_lab2.0.csproj.AssemblyReference.cache
+D:\3_course\IS_architecture\IS_lab2.0\IS_lab2.0\obj\Debug\IS_lab2.0.csproj.CoreCompileInputs.cache
+D:\3_course\IS_architecture\IS_lab2.0\IS_lab2.0\obj\Debug\IS_lab2.0.exe
+D:\3_course\IS_architecture\IS_lab2.0\IS_lab2.0\obj\Debug\IS_lab2.0.pdb
